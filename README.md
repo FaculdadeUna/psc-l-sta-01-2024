@@ -2,7 +2,8 @@
 
 #Exercícios:
 
-1.	Crie uma conta pessoal no site GitHub e coloque aqui a URL do seu perfil: URL: https://github.com/DevMendes21
+1.	Crie uma conta pessoal no site GitHub e coloque aqui a URL do seu perfil: URL:
+https://github.com/DevMendes21
 
 2.	Siga 10 colegas de classe.
 
@@ -20,6 +21,7 @@ Utilize o Portugol Studio e/ou caderno.
 8.	Suba os exercícios realizados para o GitHub no repositório que foi criado por você: psc-l sta-01-2024
 
 9.	Coloque aqui a URL do seu repositório: URL:
+https://github.com/FaculdadeUna/psc-l-sta-01-2024
 
 
 10.	Entregue essa lista respondida no Google ClassRoom.
