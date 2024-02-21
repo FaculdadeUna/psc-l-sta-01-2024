@@ -2,8 +2,7 @@
 
 #Exercícios:
 
-1.	Crie uma conta pessoal no site GitHub e coloque aqui a URL do seu perfil: URL:
-https://github.com/DevMendes21
+1.	Crie uma conta pessoal no site GitHub e coloque aqui a URL do seu perfil: URL: https://github.com/DevMendes21
 
 2.	Siga 10 colegas de classe.
 
